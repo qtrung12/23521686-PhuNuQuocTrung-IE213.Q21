@@ -17,7 +17,7 @@ Repository lưu trữ các bài thực hành môn **IE213 – Kỹ thuật phát
 
 - [Lab01](Lab01/) – Thiết lập môi trường MongoDB & CRUD Operations (Hoàn thành)
 - [Lab02](Lab02/) – Movie Reviews Backend API với Express.js & MongoDB (Hoàn thành)
-- Lab03 – Chưa thực hiện
+- [Lab03](Lab03/) – Hoàn thiện Back-end cho ứng dụng Movie Reviews (Hoàn thành)
 - Lab04 – Chưa thực hiện
 - Lab05 – Chưa thực hiện
 - Lab06 – Chưa thực hiện
