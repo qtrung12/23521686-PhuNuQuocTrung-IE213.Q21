@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background: #f7f8fb;
+  color: #1f2937;
+}
+
+.app-shell {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #ffffff 0%, #f7f8fb 100%);
+}
+
+.movie-card img {
+  object-fit: cover;
+  height: 420px;
+}
